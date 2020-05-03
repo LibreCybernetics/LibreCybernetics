@@ -16,16 +16,15 @@ getting a living-wage. (Not there yet)
 
 # Roadmap
 
- - [ ] Multiformats
- - [ ] LibP2P
- - [ ] Decentralized DVCS (Pijul/Theory of Patches based + LibP2P)
- - [ ] Decentralized Keybase
- - [ ] Decentralized Resource Planning / Cooperative (ERP for the commons?)
+ - [ ] Development Libraries with Copyfair/Copyfarleft
+ - [ ] Distributed Trust-based Social Protocol (See Social Tangle Protocol Spec)
+ - [ ] Cooperative Store (LaTiendita)
+ - [ ] Decentralized Resource Planning / Cooperative (ERP for the commons?) (Pending)
 
 # Licensing
 
-Currently everything will be dual licensed with Parity-6.0.0 and
-Prospertiy-2.0.0 from https://licensezero.com/ in summary:
+Currently everything will be dual licensed with Parity and Prospertiy from
+https://licensezero.com/ in summary:
 
 These cases are allowed:
 
@@ -38,7 +37,6 @@ This cases are **not** allowed:
  - (Privative Software, For-Profit)
  
 Commercial privative licenses might be available.
-
 
 (1): Libre in a similar vain to AGPL but FSF would probably disagree.
 
