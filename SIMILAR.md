@@ -1,6 +1,7 @@
 # Technological Development Cooperatives
 
 - [bits.coop](https://bits.coop)
+- [Mikorizal](http://mikorizal.org/)
 
 # Foundations / Non-profits
 
