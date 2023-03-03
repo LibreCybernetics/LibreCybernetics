@@ -9,38 +9,29 @@ liberatory technologies with the following principles:
 
  - Use functional programming and formal verification as much possible.
 
- - Use Copyfair / Copyfarleft licenses as much as possible.
+ - Use Copyfarleft / copyfair licenses as much as possible.
 
 This is an experiment in developing libre(1) software for the commons and
 getting a living-wage. (Not there yet)
 
 # Roadmap
 
- - [ ] Development Libraries with Copyfair/Copyfarleft
- - [ ] Distributed Trust-based Social Protocol (See Social Tangle Protocol Spec)
- - [ ] Cooperative Store (LaTiendita)
- - [ ] Decentralized Resource Planning / Cooperative (ERP for the commons?) (Pending)
+- [ ] ???
 
 # Licensing
 
-Currently everything will be dual licensed with Parity and Prospertiy from
-https://licensezero.com/ in summary:
-
-These cases are allowed:
+These cases are allowed and encouraged:
 
  - (Libre Software, Non-Profit)
- - (Libre Software, For-Profit)
+ - (Libre Software, Worker-Coop For-Profit)
+ - (Libre Software, Other For-Profit)
  - (Privative Software, Non-Profit)
+ - (Privative Software, Worker-Coop For-Profit)
  
 This cases are **not** allowed:
  
- - (Privative Software, For-Profit)
- 
-Commercial privative licenses might be available.
-
-(1): Libre in a similar vain to AGPL but FSF would probably disagree.
+ - (Privative Software, Other For-Profit)
 
 # References
 
- - Solarpunk Anarchist, Social Anarchist Futures (2018) < 
-   https://solarpunkanarchists.com/2018/05/02/social-anarchist-futures/ >
+ - [Awesome Copyfarleft](https://github.com/LibreCybernetics/awesome-copyfarleft)
