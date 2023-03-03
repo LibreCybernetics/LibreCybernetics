@@ -1,5 +1,6 @@
 # Technological Development Cooperatives
 
+- [Autonomic](https://autonomic.zone/)
 - [bits.coop](https://bits.coop/)
 - [Hypa](https://hypa.coop/)
 - [Mikorizal](http://mikorizal.org/)
