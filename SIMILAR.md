@@ -2,6 +2,7 @@
 
 - [Autonomic](https://autonomic.zone/)
 - [bits.coop](https://bits.coop/)
+- [emma.coop](https://emma.coop/)
 - [Hypa](https://hypa.coop/)
 - [Mikorizal](http://mikorizal.org/)
 
